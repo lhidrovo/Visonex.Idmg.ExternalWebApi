@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Visonex.Idmg.ExternalWebApi.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D+92FvLpxn68bim/eT7dXA3wKUxpDY3V89QfxnqaUhc=",
+  "Source": "Visonex.Idmg.ExternalWebApi",
+  "BasePath": "_content/Visonex.Idmg.ExternalWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\services\\servicecredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\services\\servicecredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\services\\iservicecredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\services\\iservicecredentialsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\services\\igraphapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\services\\igraphapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\services\\graphapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\services\\graphapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\visonex.idmg.externalwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\visonex.idmg.externalwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\middlewares\\logindelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\middlewares\\logindelegatinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\filters\\headervalidationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\filters\\headervalidationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\common\\headeroperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\common\\headeroperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|c:\\users\\lhidrovo\\desktop\\visonex.idmg.api\\visonex.idmg.externalwebapi\\dtos\\userentraresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C30122-F9CA-4241-B6A7-D4944D3B9BD8}|Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj|solutionrelative:visonex.idmg.externalwebapi\\dtos\\userentraresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGraphApiService.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\IGraphApiService.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Services\\IGraphApiService.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\IGraphApiService.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Services\\IGraphApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:32:28.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDelegatingHandler.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Middlewares\\LoginDelegatingHandler.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Middlewares\\LoginDelegatingHandler.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Middlewares\\LoginDelegatingHandler.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Middlewares\\LoginDelegatingHandler.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:42:23.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphApiService.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\GraphApiService.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Services\\GraphApiService.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\GraphApiService.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Services\\GraphApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:16:02.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Program.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:59:07.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceCredentialsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\ServiceCredentialsRepository.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Services\\ServiceCredentialsRepository.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\ServiceCredentialsRepository.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Services\\ServiceCredentialsRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:42:52.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceCredentialsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\IServiceCredentialsRepository.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Services\\IServiceCredentialsRepository.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Services\\IServiceCredentialsRepository.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Services\\IServiceCredentialsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:00:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\appsettings.json",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T21:22:53.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visonex.Idmg.ExternalWebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Visonex.Idmg.ExternalWebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T21:57:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:15:39.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeaderValidationFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Filters\\HeaderValidationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Filters\\HeaderValidationFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Filters\\HeaderValidationFilterAttribute.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Filters\\HeaderValidationFilterAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:03:21.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HeaderOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Common\\HeaderOperationFilter.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Common\\HeaderOperationFilter.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Common\\HeaderOperationFilter.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Common\\HeaderOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T22:01:30.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserEntraResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Dtos\\UserEntraResponse.cs",
+              "RelativeDocumentMoniker": "Visonex.Idmg.ExternalWebApi\\Dtos\\UserEntraResponse.cs",
+              "ToolTip": "C:\\Users\\lhidrovo\\Desktop\\Visonex.Idmg.API\\Visonex.Idmg.ExternalWebApi\\Dtos\\UserEntraResponse.cs",
+              "RelativeToolTip": "Visonex.Idmg.ExternalWebApi\\Dtos\\UserEntraResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T21:58:30.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

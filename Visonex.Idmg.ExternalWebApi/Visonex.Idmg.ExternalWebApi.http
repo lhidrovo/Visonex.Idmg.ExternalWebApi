@@ -1,0 +1,6 @@
+@Visonex.Idmg.ExternalWebApi_HostAddress = http://localhost:5176
+
+GET {{Visonex.Idmg.ExternalWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
